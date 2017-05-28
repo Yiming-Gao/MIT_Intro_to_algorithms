@@ -1,4 +1,4 @@
-Steps to run a .py script on terminal:
+### Steps to run a .py script on terminal:
 
 (1) Create two test files called file1.txt and file2.txt in the same folder as .py file located
 
